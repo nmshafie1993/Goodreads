@@ -29,9 +29,12 @@ As a bookie, I always enjoyed Goodreads website. I got this dataset is from <a h
 ## Exploratory Data Analysis
 Most rated books:
 ![alt text](https://github.com/nmshafie1993/Goodreads/blob/master/Most%20rated%20books.png)<br>
+
 Longest books
 ![alt text](https://github.com/nmshafie1993/Goodreads/blob/master/most%20lonest%20book.png)<br>
+
 Rating distribution
 ![alt text](https://github.com/nmshafie1993/Goodreads/blob/master/download.png)<br>
+
 Correlation Analysis
 ![alt text](https://github.com/nmshafie1993/Goodreads/blob/master/corr.png)<br>
